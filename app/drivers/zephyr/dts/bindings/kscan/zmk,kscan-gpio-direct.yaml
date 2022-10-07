@@ -13,4 +13,4 @@ properties:
     required: true
   debounce-period:
     type: int
-    default: 5
+    default: 10
